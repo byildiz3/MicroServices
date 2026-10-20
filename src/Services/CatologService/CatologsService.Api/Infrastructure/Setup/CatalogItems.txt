@@ -1,0 +1,21 @@
+﻿CatalogTypeName,CatalogBrandName,Description,Name,Price,PictureFileName,availableStock,onreader
+Mug, Azure, Azure branded mug, Azure Mug, 10.00, azure-mug.png, 150, false
+T-shirt, SQL Server, High-quality SQL Server themed t-shirt, SQL Server T-shirt, 20.00, sqlserver-tshirt.png, 75, true
+Sheet, CatalogBrandTestTwo, .NET branded sheet, .NET Sheet, 23.50, dotnet-sheet.png, 60, true
+USB Memory Stick, Visual Studio, Visual Studio branded USB memory stick, Visual Studio USB Memory Stick, 33.00, visualstudio-usb.png, 20, false
+CatalogTypeTestTwo, Other, High-quality generic t-shirt, Generic T-shirt, 15.00, generic-tshirt.png, 200, true
+Mug, .NET, .NET branded mug, .NET Mug, 8.50, dotnet-mug.png, 200, true
+Sheet, Azure, Azure branded sheet, Azure Sheet, 25.00, azure-sheet.png, 80, false
+USB Memory Stick, SQL Server, SQL Server branded USB memory stick, SQL Server USB Memory Stick, 32.00, sqlserver-usb.png, 30, true
+CatalogTypeTestOne, SQL Server, SQL Server branded mug, SQL Server Mug, 9.99, sqlserver-mug.png, 100, false
+T-shirt, Azure, High-quality Azure themed t-shirt, Azure T-shirt, 19.99, azure-tshirt.png, 100, true
+Sheet, Visual Studio, Visual Studio branded sheet, Visual Studio Sheet, 27.00, visualstudio-sheet.png, 50, true
+USB Memory Stick, Other, Generic branded USB memory stick, Generic USB Memory Stick, 25.00, generic-usb.png, 70, true
+Mug, Visual Studio, Visual Studio branded mug, Visual Studio Mug, 11.00, visualstudio-mug.png, 120, true
+CatalogTypeTestOne, Other, Generic branded sheet, Generic Sheet, 20.00, generic-sheet.png, 90, false
+T-shirt, CatalogBrandTestOne, High-quality .NET themed t-shirt, .NET T-shirt, 18.50, dotnet-tshirt.png, 150, false
+USB Memory Stick, Azure, Azure branded USB memory stick, Azure USB Memory Stick, 30.00, azure-usb.png, 50, true
+Sheet, SQL Server, SQL Server branded sheet, SQL Server Sheet, 26.00, sqlserver-sheet.png, 40, false
+Mug, Other, Generic branded mug, Generic Mug, 7.50, generic-mug.png, 300, false
+T-shirt, Visual Studio, High-quality Visual Studio themed t-shirt, Visual Studio T-shirt, 21.00, visualstudio-tshirt.png, 90, false
+CatalogTypeTestTwo, .NET, .NET branded USB memory stick, .NET USB Memory Stick, 28.50, dotnet-usb.png, 40, false

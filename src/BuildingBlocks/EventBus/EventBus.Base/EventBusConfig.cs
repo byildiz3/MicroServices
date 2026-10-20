@@ -9,11 +9,11 @@ namespace EventBus.Base
     public class EventBusConfig
     {
         public int ConnectionRetryCount { get; set; } = 5;
-        public string DefaultTopicName { get; set; } = "StarEventBus";
+        public string DefaultTopicName { get; set; } = "SellingStarEventBus";
         public string EventBusConnectionString { get; set; } = string.Empty;
         public string SubscriberClientAppName { get; set; } = string.Empty;
         public string EventNamePrefix { get; set; } = string.Empty;
-        public string EventNameSuffix { get; set; } = string.Empty;
+        public string EventNameSuffix { get; set; } = "IntegrationEvent";
         public EventBusType EventBusType { get; set; } = EventBusType.RabbitMQ;
         public object Connection { get; set; }
 
